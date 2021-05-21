@@ -1,0 +1,11 @@
+body{
+  background-image: url(karo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+*{
+  box-sizing: border-box;
+  padding-left: 4%;
+  padding-right: 3%;
+  padding-top: 1%;
+}

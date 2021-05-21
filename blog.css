@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+body{
+    background-image: url(carolina.jpg);
+}
+p{
+    font-style: italic;
+    font-size: large;
+}

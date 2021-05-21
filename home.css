@@ -1,0 +1,33 @@
+
+.Me{
+    width: 20px;
+    border-radius: 100px;
+    float:left;
+    margin:10px;
+}
+
+.home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    font-style: italic;
+    float: right;
+    background-color: wheat;
+    font-size: 190%;
+
+    }
+    a:hover{
+        color: rgb(117, 117, 35);
+    }
+    
+   
+    body{
+        background-image: url(flowers.jpg);
+        background-size: cover;
+    text-align: center;
+    }
+    h2{
+        font-style: italic;
+        color: wheat;
+    }
+
